@@ -7,4 +7,4 @@ As Nebulers, we are constantly asking ourselves how we can reimagine efficient s
 
 Join our NEW community on Discord for a chat about nebullvm and any discussion about AI optimization 
 [Discord](https://discord.gg/3hsC4rS3) ✨
-or if you want to know more feel free to connect with us on [LinkedIn](https://www.linkedin.com/company/nebuly)
+ or if you want to know more feel free to connect with us on [LinkedIn](https://www.linkedin.com/company/nebuly)
