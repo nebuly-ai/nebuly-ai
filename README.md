@@ -6,5 +6,5 @@ _My mission is to accelerate for as many people as possible the transition to ef
 As Nebulers, we are constantly asking ourselves how we can reimagine efficient software development in the post-Moore era and help developers realize the enormous potential hidden in the right software to hardware blending.
 
 Join our NEW community on Discord for a chat about nebullvm and any discussion about AI optimization 
-[Discord](https://discord.gg/3hsC4rS3)
-✨or [LinkedIn](https://www.linkedin.com/company/nebuly)
+[Discord](https://discord.gg/3hsC4rS3) ✨
+or if you want to know more feel free to connect with us on [LinkedIn](https://www.linkedin.com/company/nebuly)
