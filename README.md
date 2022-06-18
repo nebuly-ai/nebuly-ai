@@ -2,7 +2,7 @@
 
 ## Hi all, I'm Nebuly 👐
 
-_My mission is to accelerate for as many people as possible the transition to efficient computing leveraging only the resources that are strictly needed._
+_Our mission is to accelerate for as many people as possible the transition to efficient computing leveraging only the resources that are strictly needed._
 As Nebulers, we are constantly asking ourselves how we can reimagine efficient software development in the post-Moore era and help developers realize the enormous potential hidden in the right software to hardware blending.
 
 Join our NEW community on [Discord](https://discord.gg/RbeQMu886J) ✨ for a chat about nebullvm and any discussion about AI optimization
