@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/83510798/154965794-e8973c24-2cd7-44ee-af2b-7d097410c25f.png">
+![Nebuly AI cover logo](https://user-images.githubusercontent.com/83510798/202816824-7a8a4370-e1a8-47cd-94a8-6338df9597cf.png)
 
 ## Hi all, here is Nebuly 👐
 
